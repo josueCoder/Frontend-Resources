@@ -2,3 +2,6 @@
 
 **[htmlreference.io](https://htmlreference.io/)**
 Nos proporciona información de las etiquetas HTML
+
+**[htmlcolorcodes](https://htmlcolorcodes.com/es/)**
+Nos proporciona los colores
